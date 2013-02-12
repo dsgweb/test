@@ -12,6 +12,4 @@ public class TestExample{
 	//adsfafads
 	//sss2
 //change
-	
-	//sss3
 }
